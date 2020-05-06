@@ -3,5 +3,6 @@
 int main()
 {
 printf("Open Source SW Project\n");
-retirn 0;
+printf("First GitHub Tranning\n");
+  retirn 0;
 }
