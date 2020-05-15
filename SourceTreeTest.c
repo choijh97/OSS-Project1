@@ -2,5 +2,6 @@
 int main()
 {
 printf("First OSS code\n");
-return 0;  
+printf("Second OSS code\n");
+return 0;
 }
